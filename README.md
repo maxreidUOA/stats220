@@ -1,2 +1,3 @@
 # stats220
-Stats 220 work
+## About me
+hello
