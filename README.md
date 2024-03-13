@@ -12,5 +12,5 @@ Assignment 1 entails the creation of:
 - A picture meme
 - A gif meme
 
-To find inspiration for my meme, I browsed [Giphy](https://giphy.com/) and [KnowYourMeme](https://knowyourmeme.com/).
+To find inspiration for my meme, I browsed [Giphy](https://giphy.com/) and [KnowYourMeme](https://knowyourmeme.com/). After finding my inspo, I created my own version of the meme from scratch using RStudio as well as an animated version of the meme.
 
